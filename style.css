@@ -157,7 +157,7 @@ span{
     margin-top: 20px;
 }
 .instagram-text{
-    margin-top: 200px;
+    margin-top: 90px;
     text-align: center;
 }
 .instagram-text h2{
@@ -167,6 +167,7 @@ span{
 }
 .instagram-text p{
     font-size:20px ;
+    margin-bottom: 50px;
 }
 .instagram-img-card{
     max-width: 1480px;
